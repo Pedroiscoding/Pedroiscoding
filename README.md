@@ -16,7 +16,7 @@ Me formé en desarrollo de aplicaciones web y actualmente formo parte del equipo
 
 ## 🛠️ Proyectos personales
 
-🎯 *Actualmente trabajando en un proyecto de IA para la gestión de clubes de pádel.*  
+🎯 *Actualmente trabajando en un proyecto de IA para la gestión de clubes de pádel llamado Rakkly. *  
 📌 *Más información y repositorios próximamente...*
 
 ---
