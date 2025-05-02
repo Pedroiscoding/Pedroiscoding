@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Pedro Correas
 
-<!--
-**Pedroiscoding/Pedroiscoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **desarrollador frontend junior** con una historia poco común: estudié **Marketing** y trabajé como **responsable de un comercio**, pero decidí reinventar mi carrera profesional y sumergirme en el mundo del desarrollo web.
 
-Here are some ideas to get you started:
+Me formé en desarrollo de aplicaciones web y actualmente formo parte del equipo de **Symplia**, donde sigo creciendo como desarrollador. Además, estoy impulsando un proyecto personal que busca **llevar la Inteligencia Artificial al mundo de la gestión de clubes de pádel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías que me encantan
+
+- **Lenguajes:** HTML, JavaScript
+- **Estilos:** SCSS, Tailwind CSS
+- **Frameworks:** React
+
+---
+
+## 🛠️ Proyectos personales
+
+🎯 *Actualmente trabajando en un proyecto de IA para la gestión de clubes de pádel.*  
+📌 *Más información y repositorios próximamente...*
+
+---
+
+## 📫 Cómo contactarme
+
+- 📧 Email: [hola@rakkly.com](mailto:hola@rakkly.com)
+- 💼 LinkedIn: [Pedro Correas](https://www.linkedin.com/in/pedrocorreas)
+
+---
+
+## 🌱 En constante aprendizaje...
+
+Estoy siempre abierto a colaborar en proyectos interesantes, aprender nuevas herramientas y conectar con otros profesionales del desarrollo.
+
+---
+
+¡Gracias por visitar mi perfil!
