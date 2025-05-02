@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Pedro Correas
+# 👋 ¡Hola! Soy Pedro
 
 Soy un **desarrollador frontend junior** con una historia poco común: estudié **Marketing** y trabajé como **responsable de un comercio**, pero decidí reinventar mi carrera profesional y sumergirme en el mundo del desarrollo web.
 
