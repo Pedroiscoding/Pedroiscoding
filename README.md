@@ -24,7 +24,7 @@ Me formé en desarrollo de aplicaciones web y actualmente formo parte del equipo
 ## 📫 Cómo contactarme
 
 - 📧 Email: [hola@rakkly.com](mailto:hola@rakkly.com)
-- 💼 LinkedIn: [Pedro Correas](https://www.linkedin.com/in/pedrocorreas)
+- 💼 LinkedIn: [Pedro Correas](https://www.linkedin.com/in/pedro-correas)
 
 ---
 
