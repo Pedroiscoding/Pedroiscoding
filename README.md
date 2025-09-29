@@ -2,7 +2,7 @@
 
 Soy un **desarrollador frontend junior** con una historia poco común: estudié **Marketing** y trabajé como **responsable de un comercio**, pero decidí reinventar mi carrera profesional y sumergirme en el mundo del desarrollo web.
 
-Me formé en desarrollo de aplicaciones web y actualmente formo parte del equipo de **Symplia**, donde sigo creciendo como desarrollador. Además, estoy impulsando un proyecto personal que busca **llevar la Inteligencia Artificial al mundo de la gestión de clubes de pádel**.
+Me formé en desarrollo de aplicaciones web y actualmente formo parte del equipo de **Symplia**, donde sigo creciendo como desarrollador. Además, estoy impulsando un proyecto personal que busca **Acercar el mundo web a todas las PYMES llamado Rakkly**.
 
 ---
 
